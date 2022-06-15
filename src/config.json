@@ -1,8 +1,8 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "title": "おでかけわんこ部マップ",
+  "description": "愛犬と一緒に行けるカフェや宿、おでかけスポット",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
-  "primary_color": "#d2691e"
+  "logo_image_url": "https://odekake-wanko-bu.com/wp-content/uploads/2022/06/s_logo_1080.jpg",
+  "background_image_url": "https://odekake-wanko-bu.com/wp-content/uploads/2022/06/bkc.jpg",
+  "primary_color": "#FECC1B"
 }
