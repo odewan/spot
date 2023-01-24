@@ -10,8 +10,9 @@ on:
 
   workflow_dispatch:
 
-  schedule:
-    - cron:  '*/10 * * * *'
+  # Pages の公開停止中のためコメントアウト
+  # schedule:
+    #- cron:  '*/10 * * * *'
     # 10分ごとに実行
 
 jobs:
